@@ -23,5 +23,10 @@
 - singleton 패턴과 @Configuration
 - Race Condition Issue
 
+## section6&7-autowired
+- @ComponentScan, @Autowired를 이용한 자동 빈 등록
+- 수동 빈 등록
+- lombok을 이용한 생성자 주입
+
 # Reference
 스프링 핵심 원리(기본편) - 김영한  
