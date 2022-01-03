@@ -17,5 +17,11 @@
 - @configuration, @bean 사용
 - 스프링 컨테이너를 이용해서 스프링 빈 찾아서 사용하도록 변경
 
+## section4&5
+- getBean() 사용법
+- BeanDefinition 메타데이터
+- singleton 패턴과 @Configuration
+- Race Condition Issue
+
 # Reference
 스프링 핵심 원리(기본편) - 김영한  
