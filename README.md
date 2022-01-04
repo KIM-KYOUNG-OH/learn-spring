@@ -33,5 +33,11 @@
 - @Bean의 initMethod와 destroyMethod property 사용
 - @PostConstruct, @PreDestroy
 
+## section9-scope
+- 프로토타입 스코프
+- ObjectProvider
+- 웹 스코프
+- 프록시 객체
+
 # Reference
 스프링 핵심 원리(기본편) - 김영한  
