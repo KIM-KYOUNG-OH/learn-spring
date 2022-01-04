@@ -28,5 +28,10 @@
 - 수동 빈 등록
 - lombok을 이용한 생성자 주입
 
+## section8-beanLifeCycleCallback
+- 빈 생명주기 콜백
+- @Bean의 initMethod와 destroyMethod property 사용
+- @PostConstruct, @PreDestroy
+
 # Reference
 스프링 핵심 원리(기본편) - 김영한  
